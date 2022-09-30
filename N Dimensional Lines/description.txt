@@ -1,0 +1,3 @@
+Enter points in N dimensions.
+Program will create an array of lines between the points. Lines are defined as vector equations which allows them to exist in N dimensions.
+If user inputs 2D or 3D points, program offers the option to plot the lines.
